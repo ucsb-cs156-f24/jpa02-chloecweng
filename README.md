@@ -1,6 +1,6 @@
 # jpa02-chloecweng
 
-Repo: https://ucsb-cs156-f24/jpa02-chloecweng
+Repo: https://github.com/ucsb-cs156-f24/jpa02-chloecweng
 
 Deployed at: https://jpa02-chloecweng.dokku-03.cs.ucsb.edu
 
